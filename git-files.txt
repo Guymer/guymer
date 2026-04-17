@@ -1,0 +1,9 @@
+.editorconfig
+.github/FUNDING.yml
+.gitignore
+.mypy.ini
+.pylint.ini
+.shellcheckrc
+LICENCE.txt
+README.md
+requirements.txt
